@@ -1,0 +1,292 @@
+[
+    {
+        "question": "When you face a difficult challenge, what do you usually do?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "Keep trying until I overcome it.",
+                "trait": "Determination",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "Analyse the situation and work out the best solution.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "Face it head-on and trust my abilities.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "Think about how my actions might affect others.",
+                "trait": "Compassion",
+                "points": 2
+            }
+        ]
+    },
+    {
+        "question": "What role do you usually take in a group?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "I keep everyone motivated.",
+                "trait": "Determination",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "I make plans and think ahead.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "I take charge and make decisions.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "I make sure everyone gets along and feels included.",
+                "trait": "Compassion",
+                "points": 2
+            }
+        ]
+    },
+    {
+        "question": "How would you approach a new opportunity?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "Jump into it and see what happens.",
+                "trait": "Adventurousness",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "Research it first so I understand what I am getting into.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "Take the opportunity confidently.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "Invite friends so we can experience it together.",
+                "trait": "Loyalty",
+                "points": 2
+            }
+        ]
+    },
+    {
+        "question": "What matters most to you in a friendship?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "Having someone who never gives up on me.",
+                "trait": "Determination",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "Having someone who understands how I think.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "Having someone who encourages me to be confident.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "Having someone who always stays by my side.",
+                "trait": "Loyalty",
+                "points": 2
+            }
+        ]
+    },
+    {
+        "question": "How do you make an important decision?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "I stay determined to achieve the outcome I want.",
+                "trait": "Determination",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "I use logic, facts and careful consideration.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "I trust myself and take responsibility.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "I consider how the decision will affect other people.",
+                "trait": "Compassion",
+                "points": 2
+            }
+        ]
+    },
+    {
+        "question": "If you found yourself in an unfamiliar place, what would you do?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "Explore and discover what is around me.",
+                "trait": "Adventurousness",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "Observe my surroundings and work out where I am.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "Stay calm and trust myself to handle it.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "Find companions and make sure everyone is okay.",
+                "trait": "Loyalty",
+                "points": 2
+            }
+        ]
+    },
+    {
+        "question": "What motivates you the most?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "Proving that I can achieve my goals.",
+                "trait": "Determination",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "Learning new things and gaining knowledge.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "Becoming someone who truly believes in themselves.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "Making the people I care about proud and happy.",
+                "trait": "Loyalty",
+                "points": 2
+            }
+        ]
+    },
+    {
+        "question": "If someone was struggling, how would you respond?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "Encourage them not to give up.",
+                "trait": "Determination",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "Work out what is causing the problem and find a solution.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "Step in and take charge of the situation.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "Help them personally and check that they are okay.",
+                "trait": "Compassion",
+                "points": 2
+            }
+        ]
+    },
+    {
+        "question": "Which lifestyle sounds most appealing to you?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "Working towards a major goal or achievement.",
+                "trait": "Determination",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "Learning, thinking and discovering new ideas.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "Being independent and doing my own thing.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "Travelling, exploring and experiencing excitement.",
+                "trait": "Adventurousness",
+                "points": 2
+            }
+        ]
+    },
+    {
+        "question": "Which of these would you say is your biggest strength?",
+        "answers": [
+            {
+                "option": "A",
+                "text": "I do not give up easily.",
+                "trait": "Determination",
+                "points": 2
+            },
+            {
+                "option": "B",
+                "text": "I am good at analysing situations and solving problems.",
+                "trait": "Intelligence",
+                "points": 2
+            },
+            {
+                "option": "C",
+                "text": "I believe in myself and am willing to take risks.",
+                "trait": "Confidence",
+                "points": 2
+            },
+            {
+                "option": "D",
+                "text": "I care about people and stand by those close to me.",
+                "trait": "Loyalty",
+                "points": 2
+            }
+        ]
+    }
+]
